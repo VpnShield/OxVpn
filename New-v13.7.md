@@ -1,10 +1,10 @@
 {
-  "Title": "❌ فورررری اختلال اینترنت ملی 😱😱🔥 ",
-  "Description": "بزودی اینترنت ملی میشه و اختلال زیادی هست ، فورا عضو کانال تلگرام بشو تا دسترسیت به اینترنت قطع نشه 👇🏻👇🏻👇🏻",
-  "Link": "tg://join?invite=SxBfGxchAVQ0NTZk",
-  "ColorWave": "#ffff00",
+  "Title": "Vpn Shield | Free ⚡️",
+  "Description": "بزودی دوباره جنگ میشه و اینترنتا ملی ! 😐😑\r\n\r\nفورا عضو بزرگ ترین و بهترین کانال فیلترشکن بشو تا دسترسیت قطع نشه 🔥",
+  "Link": "tg://join?invite=L15jIEnnro83MWM0",
+  "ColorWave": "#ff0000",
   "Color": "#ffa500",
-  "ColorWaveTwo": "#ff6e40",
+  "ColorWaveTwo": "#ff4d4d",
   "ColorBackGround": "#ffffff",
   "TitleGravity": "center",
   "MessageGravity": "center",
@@ -14,11 +14,11 @@
   "ColorBtnBg": "#00a043",
   "ColorBtnCancell": "#ffffff",
   "ColorBtnCancellBg": "#e90000",
-  "Cancellable": "true",
-  "MessageID": "39280000283",
+  "Cancellable": "false",
+  "MessageID": "4484098989913328",
   "ShowTime": "3",
   "Button": " عضویت اجباری ",
-  "ButtonCancell": " نمیخوام ",
+  "ButtonCancell": "",
   "Closure": "true",
   "Show": "on"
 }
